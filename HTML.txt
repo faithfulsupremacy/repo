@@ -1,0 +1,22 @@
+<!-- Initiate JS function from a button -->
+
+<button type="button" onclick="function()">Click the button!</button>
+
+
+<!-- Tables -->
+
+<table>
+    <tr>
+        <th>Top</th>
+        <th>Row</th>
+    </tr>
+    <tr>
+        <td>Details</th>
+        <td>Of the row</th>
+    </tr>
+</table>
+
+
+<!-- Favicon -->
+
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
