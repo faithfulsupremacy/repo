@@ -1,0 +1,12 @@
+/* Sending text in the console */
+
+console.log("Your message here")
+
+
+/* Changing the properties of an object in a function */
+
+function functionName() {
+        document.getElementById("idhere").style.backgroundColor = "black"; /* Background Color */
+        document.getElementById("idhere").innerHTML = "The new name";      /* Text */
+        document.getElementById("imgid").src = "images/newimage.png";      /* Image Source */
+}       
