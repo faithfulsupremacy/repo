@@ -20,3 +20,14 @@
 <!-- Favicon -->
 
 <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+
+
+<!-- Index Frames -->
+
+        <frameset rows="80%,20%">
+            <frameset cols="70%,30%">
+                <frame name="kreisa" src="3.html"></frame>
+                <frame name="laba" src="1.html"></frame>
+            </frameset>
+            <frame name="leja" src="2.html"></frame>
+        </frameset>
